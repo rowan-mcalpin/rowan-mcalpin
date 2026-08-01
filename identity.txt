@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I am Rowan McAlpin. This file is cryptographically signed to prove my online identity and domain ownership.
+* Primary Domain: https://rowanmcalpin.com
+* Secondary Domain: https://mcalpin.dev
+* GitHub: https://github.com/rowanmcalpin
+* Master GPG Fingerprint: 7E25 E456 7C45 D7C5 ACEE  10C7 81DA F089 D4BD 822D
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEiWtX5pE1rVkkDCiU9oRz0c2skhwFAmppfYkACgkQ9oRz0c2s
+khzV2g/7BGUqN9qNCU655c2LbPjH5eYSg0DnpzjLwKTAB0rWpJXYHKxfm67KjUEI
+AGsuWhHgHLs6LItHP0ufGlHlHSP9UVVR1OtjolyrbUKiz6pwX3uwjfRihxb1IKIv
+myu6Dg0XjzuSnNuEKS19MMhZQpfEZWRgJju4oIVlw0QFQeAhueYrHdCh6hCyCJOP
+imIsFMM+xTcPOM5frZU98qS3GKYhU3iUX+lAImCe6IqhuxcCrQgqgHIw9s4sX2Cz
+Va2S2w9HDQQBC/v8sFVNYUcYu93RbJBqDQTBBw5K7Alk+gxqI427XMhxF24WpGdy
+w9BuG1AUUtY2ZcgLzPV9G7jU+AUDHH4muvMAXsYHXQKRXwjfRJBN/lGIOzC+mafF
+Qoi8liP7MMy5hv0W3uIYWbQu2d9h3UVxrcdOPPKnGIXEL3aNpLHEFIWXpXfwyppd
+I1fYMpB3BSUL3Wr5snW8Eaczltovq54pRyGiUOHsg+o06NfV+0hyVfvIIiYpYKVd
+9G/KresfVKTXE831GvpAK1mHnVD2h/SxYOJJlXGsRSLCGHQfGfPdr9n7KrlW84se
+QSto1bXQ5EMGrsC7Opq8rF97vrkZD3IFWP3eT+C0tZZtHkbGv3YlCjZaSw9iwqlO
+wFHEDuJpmb9JYCDCXQR9suaMp9snr2x8fSOU4DxxxnVK8D4Ym1I=
+=uFiU
+-----END PGP SIGNATURE-----
